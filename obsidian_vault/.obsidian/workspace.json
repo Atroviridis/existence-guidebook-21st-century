@@ -13,43 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "c6c544efd68b3176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Existence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Existence"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ae1efc1fe6bd6170",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44601f7fc2d7f739",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -193,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6c544efd68b3176",
+  "active": "c7ee20dc9fdbca49",
   "lastOpenFiles": [
     "Welcome.md",
     "Existence.md"
