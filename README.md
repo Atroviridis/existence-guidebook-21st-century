@@ -11,3 +11,15 @@ The goal of this project is
 "At the heart of science is an essential balance between two seemingly contradictory attitudes — an openness to new ideas, no matter how bizarre or counterintuitive they may be, and the most ruthless skeptical scrutiny of all ideas, old and new. - Carl Sagan
 
 “We must here make a clear distinction between belief and faith, because, in general practice, belief has come to mean a state of mind which is almost the opposite of faith. Belief, as I use the word here, is the insistence that the truth is what one would “lief” or wish it to be. The believer will open his mind to the truth on the condition that it fits in with his preconceived ideas and wishes. Faith, on the other hand, is an unreserved opening of the mind to the truth, whatever it may turn out to be. Faith has no preconceptions; it is a plunge into the unknown. Belief clings, but faith lets go. In this sense of the word, faith is the essential virtue of science and likewise of any religion that is not self-deception.” - Alan Watts
+
+What are we doing here?
+
+The diameter of the observable universe is 93 billion light-years. (Wikipedia)
+
+The age of the universe is about 13.7 billion years. (NASA)
+
+“Anatomically modern humans emerged around 300,000 years ago in Africa” (Wikipedia)
+
+The universe existed for billions of years before there were humans.
+
+The average life expectancy in the United States is 77.28 years.
