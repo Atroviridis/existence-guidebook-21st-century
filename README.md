@@ -4,7 +4,7 @@ Philosophical and spiritual inquiry in the 21st century
 The goal of this project is
 1) to bring together and elaborate upon ideas about human existence that can fit within a 21st century worldview in which science and empiricism are valued.
 2) to express these ideas in as plain language as possible.
-3) to make use of disparate sources (science, philosophy, world religions)
+3) to make use of diverse sources (science, philosophy, world religions)
 4) to build a coherent and unified worldview, showing how ideas connect in meaningful ways.
 5) to find a form of spirituality that doesn’t oppose science.
 
