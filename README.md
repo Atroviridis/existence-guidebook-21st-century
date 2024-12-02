@@ -7,7 +7,7 @@ The goal of this project is
 3) to make use of diverse sources (science, philosophy, world religions)
 4) to build a coherent and unified worldview, showing how ideas connect in meaningful ways.
 5) to find a form of spirituality that doesn’t oppose science.
-6) to explore the interplay/relationship between the objective world as conceived by science and subjective/personal world.
+6) to explore the interplay/relationship between the objective world as conceived by science and the subjective/personal world.
 
 "At the heart of science is an essential balance between two seemingly contradictory attitudes — an openness to new ideas, no matter how bizarre or counterintuitive they may be, and the most ruthless skeptical scrutiny of all ideas, old and new. - Carl Sagan
 
