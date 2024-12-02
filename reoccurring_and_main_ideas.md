@@ -2,7 +2,7 @@ Main ideas
 
 1) Existence occurs spontaneously. "It's only a matter of time before life begins." You didn't choose to exist. As far as you know, you don't exist of your own accord. Life is given and can be taken away. One becomes aware of the fact of one's own existence only in retrospect. Is your life your own?
 
-2) What was before you were born and what will come after appear to have the same character about them, i.e. the complete unknown.
+2) What was before you were born and what will come after you die appear to have the same character about them, i.e. the complete unknown.
 
 3) Life is change. Transience. Evanescence. Dynamic. In flux. There is no safety or security. Groundlessness.
 
