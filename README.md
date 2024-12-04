@@ -15,12 +15,16 @@ The goal of this project is
 
 What are we doing here?
 
-The diameter of the observable universe is 93 billion light-years. (Wikipedia)
+The age of the universe is ~ 13.7 billion years.
 
-The age of the universe is about 13.7 billion years. (NASA)
-
-“Anatomically modern humans emerged around 300,000 years ago in Africa” (Wikipedia)
-
-The universe existed for billions of years before there were humans.
+The diameter of the observable universe is ~ 93 billion light-years.
 
 The average life expectancy in the United States is 77.28 years.
+
+Homo sapiens has been around for ~ 300,000 years.
+
+First life appears ~ 3.5 to 4 billion years ago with single-celled organisms.
+
+Multicellular life emerges ~ 1 billion years ago.
+
+In 2024, the global population is ~ 8.2 Billion People.
