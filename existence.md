@@ -12,8 +12,18 @@ Did you take the next step? Did you juxtapose the fact of your existence with th
 
 *You feel this movement of going back and back in time, perhaps forever, and then suddenly of jumping to arrive at yourself, right here and right now, in this very moment.*
 
-Does time have a beginning? If so, what was it like way back before time started? Back before there were trees and clouds and things?
+***
 
-Friedrich Nietzsche: “Glance into the world just as though time were gone: and everything crooked will become strait to you.”
+Existence occurs spontaneously.
 
-We inhabit timelessness. What is the beginning of infinity?
+"It's only a matter of time before life begins."
+
+You didn't choose to exist.
+
+As far as you know, you don't exist of your own accord.
+
+Life is given and can be taken away. 
+
+One becomes aware of the fact of one's own existence only in retrospect.
+
+Is your life your own?

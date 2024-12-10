@@ -15,3 +15,12 @@ Main ideas
 7) There is only ever the present moment. The mind collates moments into a narrative.
 
 8) Other people are reflections of yourself. elaborate?
+9) Against human exceptionalism. Agasint teleology? Humans are not central to some cosmic plan. Humans are not the pinnacle of creation. Humans are part of nature and not separate from it.
+
+	a. Copernicus: The Earth revolves around the Sun.
+	
+	b. Darwin: Biological species aren't immutable.
+
+	Source: Philosophy Now Issue 164
+	
+10) Idea #10
